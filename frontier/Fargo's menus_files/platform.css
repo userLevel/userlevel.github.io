@@ -1,0 +1,243 @@
+// Copyright 2013-2014, Small Picture, Inc.
+
+code { 
+	font-family: Courier;
+	font-size: inherit;
+	color: inherit;
+	border: none;
+	padding: 0;
+	}
+pre {
+	line-height: 100%;
+	}
+h2 {
+	font-size: 42px;
+	margin-bottom: 0 !important;
+	}
+hr {
+	border-top: 1px solid silver;
+	margin: 0 0 5px 0;
+	}
+.container {
+	margin-top: 50px;
+	margin-bottom: 300px;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+.divHeadlineUnit {
+	margin-bottom: 35px;
+	}
+.divFooterText {
+	margin-top: 60px;
+	margin-bottom: 5px;
+	}
+.divBreadcrumbs {
+	visibility: visible;
+	height: 25px;
+	}
+.divBreadcrumbs .breadcrumb {
+	padding: 0;
+	background-color: transparent;
+	}
+.divByline {
+	visibility: visible;
+	height: .7em;
+	margin-left: 2px;
+	margin-top: 30px;
+	}
+a:link, a:visited {
+	color: #0088CC;
+	}
+.divPrevNext {
+	float: right;
+	}
+.divDisqusComments {
+	margin-top: 25px;
+	background-color: white;
+	padding: 15px;
+	border:1px solid #ddd;
+	}
+.divFargoMarkdownBody {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+	margin-bottom: 300px;
+	}
+.divFargoIndex ul {
+	list-style: none;
+	padding-left: 0;
+	margin-left: 0;
+	}
+.divFargoIndex li {
+	margin-top: 30px;
+	margin-bottom: 3px;
+	}
+.divFargoIndex .liSmallTitleOnIndexPage {
+	margin-top: 0;
+	margin-bottom: 3px;
+	}
+.divFargoIndex .aDocTitleOnIndexPage {
+	color: black !important;
+	font-weight: bold;
+	font-size: 1.3em;
+	line-height: 200%;
+	}
+.divFargoIndex .aDocSmallTitleOnIndexPage {
+	color: black !important;
+	font-weight: bold;
+	font-size: 1.1em;
+	line-height: 180%;
+	}
+.spFargoStoryDate {
+	font-size: 1em;
+	letter-spacing: -0.03em;
+	}
+.navbar-container {
+	width: 940px;
+	margin: 0 auto;
+	}
+.navbar .brand {
+	font-weight: bold !important;
+	font-size: 22px !important;
+	}
+
+.aWedgeLink {
+	font-size: 1.05em;
+	color: white !important;
+	}
+.aWedgeLink i {
+	float: left;
+	width: 1.25em;
+	margin-top: 4px;
+	}
+.aSiteLink {
+	font-family: Rancho;
+	font-size: 32px;
+	line-height: 110%;
+	color: white !important;
+	}
+ #idSnapOpenIcon {
+	background: url(http://fargo.io/cms/snap/open.png) center center no-repeat;
+	display: block;
+	width: 44px;
+	height: 44px;
+	cursor: pointer;
+	
+	}
+.snap-content {
+	background: whitesmoke;
+	}
+.snap-drawers {
+	background: #323949;
+	}
+.snap-drawer {
+	background: #323949;
+	color: #eee;
+	}
+.snap-drawer h3 {
+	font-size: 36px;
+	font-weight: normal;
+	margin: 15px;
+	}
+.snap-drawer h4 {
+	padding: 5px;
+	margin-bottom: 15px;
+	}
+.snap-drawer ul {
+	list-style: none;
+	margin-left: 22px;
+	}
+.snap-drawer li > a {
+	display: block;
+	padding: 5px;
+	padding-left: 9px;
+	font-weight: bold;
+	text-shadow: 0 1px 0 #000;
+	text-decoration: none;
+	color: #ccc;
+	cursor: pointer;
+	}
+.snap-drawer p {
+	opacity: 0.5;
+	padding: 15px;
+	font-size: 12px;
+	}
+
+.divFargoStoryList {
+	margin-top: 50px;
+	}
+.divSocialMediaLinks {
+	margin-top: 35px;
+	font-size: 1.3em;
+	letter-spacing: 15px;
+	}
+.divFargoIndex ul {
+	padding-left: 1.5em;
+	}
+.divFargoSocialMediaLinks {
+	float: right; 
+	margin-right: 30px; 
+	margin-top: 17px; 
+	letter-spacing: 10px;
+	}
+
+.divBlogHomeItemTitle {
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 140%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 0;
+	}
+.divBlogHomeItemTitle a {
+	color: black;
+	}
+.divBlogHomeItem p {
+	font-family: Georgia;
+	font-size: 18px;
+	line-height: 140%;
+	}
+.divBlogHomeStoryDate {
+	font-family: Georgia;
+	font-size: 18px;
+	line-height: 140%;
+	margin-bottom: 2em;
+	}
+.divFargoStoryLink {
+	font-size: .7em;
+	margin-top: 4px;
+	margin-right: 5px;
+	}
+.divFargoStoryLink a {
+	color: #0088CC;
+	}
+
+.divPgfPermaLink {
+	margin-left: 3px;
+	vertical-align: middle;
+	font-size: 10px;
+	}
+.divPgfPermaLink a {
+	text-decoration: none;
+	color: purple;
+	}
+
+.divPictureViewer .modal {
+	width: auto;
+	}
+
+.emoji { /* 6/3/14 by DW */
+	width: 1em;
+	height: 1em;
+	display: inline-block;
+	margin-bottom: 0;
+	}
+
+.divRiverContainer { /* 10/12/14 by DW */
+	font-family: "Georgia";
+	}
+
+
+
