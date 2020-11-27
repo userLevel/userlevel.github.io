@@ -1,3 +1,0 @@
-### introduction
-
-tree5 was a born out of a perceived opening in the market. the current state of outliners, as prevalent as they are now, as they have received, once again some popularity, having previously enjoyed quite significant use in the 1980s and the early 1990s, when software 'application' titles frequently featured 'II' and 'Pro', rather than a year or a perpetual beta,were   become slow and fully featured with 
